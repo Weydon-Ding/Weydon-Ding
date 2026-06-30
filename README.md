@@ -76,8 +76,12 @@ Java、Spring Boot、MySQL、Redis、Kubernetes、后端系统设计。
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Weydon-Ding&show_icons=true&theme=tokyonight&hide_border=true" alt="Weydon-Ding GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weydon-Ding&layout=compact&theme=tokyonight&hide_border=true" alt="Weydon-Ding top languages" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Weydon-Ding&show_icons=true" alt="Weydon-Ding GitHub stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weydon-Ding&layout=compact" alt="Weydon-Ding top languages" />
+</a>
 
 </div>
 
