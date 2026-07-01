@@ -1,28 +1,17 @@
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="./assets/chiikawa.gif" width="96" alt="Chiikawa" />
-    </td>
-    <td>
+<img align="left" src="./assets/chiikawa.gif" width="120" alt="Chiikawa" />
+
+<br clear="left" />
 
 # Hi，我是丁伟东 🐹
 
 - 🎮 有游戏相关开发背景，关注工具效率与工程质量
-- 🌱 正在系统学习 Java、Spring Boot、数据库与后端开发
 - ⚙️ 熟悉 CI/CD、容器化与自托管开发协作流程
-
-</td>
-  </tr>
-</table>
 
 ## 🧰 技术栈
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-0b0b0b?style=flat-square&logo=c" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -66,6 +55,8 @@
 </a>
 
 </div>
+
+## 🎮 More about me
 
 <details>
 <summary>📺 Bangumi Watching</summary>
