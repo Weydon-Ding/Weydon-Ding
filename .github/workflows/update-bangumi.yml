@@ -1,0 +1,33 @@
+name: Update Bangumi Watching
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-bangumi:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Update Bangumi watching list
+        env:
+          BANGUMI_USER_ID: "782607"
+        run: python scripts/update_bangumi.py
+
+      - name: Commit README update
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update Bangumi watching list"
+          file_pattern: README.md
