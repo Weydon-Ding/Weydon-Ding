@@ -36,6 +36,43 @@ def test_parse_collection_items_extracts_title_cover_progress_and_url():
     ]
 
 
+def test_parse_collection_items_uses_volume_progress_for_books():
+    data = [
+        {
+            "subject_id": 456,
+            "vol_status": 2,
+            "subject": {
+                "name_cn": "测试漫画",
+                "eps": 0,
+                "volumes": 10,
+                "images": {"common": "https://example.com/book.jpg"},
+            },
+        }
+    ]
+
+    items = update_bangumi.parse_collection_items(data, subject_type=1)
+
+    assert items[0]["title"] == "测试漫画"
+    assert items[0]["progress"] == "2 / 10"
+
+
+def test_parse_collection_items_omits_progress_for_games():
+    data = [
+        {
+            "subject_id": 789,
+            "subject": {
+                "name_cn": "测试游戏",
+                "images": {"common": "https://example.com/game.jpg"},
+            },
+        }
+    ]
+
+    items = update_bangumi.parse_collection_items(data, subject_type=4)
+
+    assert items[0]["title"] == "测试游戏"
+    assert items[0]["progress"] == ""
+
+
 def test_render_poster_grid_limits_items_and_escapes_titles():
     items = [
         {
@@ -76,6 +113,28 @@ def test_render_poster_grid_does_not_double_escape_entities():
     assert "Panty &amp;amp; Stocking" not in markdown
 
 
+def test_render_poster_grid_uses_title_only_when_progress_is_empty():
+    items = [
+        {
+            "title": "测试游戏",
+            "url": "https://bgm.tv/subject/1",
+            "cover": "https://example.com/a.jpg",
+            "progress": "",
+        }
+    ]
+
+    markdown = update_bangumi.render_poster_grid(items)
+
+    assert 'title="测试游戏"' in markdown
+    assert "测试游戏 ·" not in markdown
+
+
+def test_render_poster_grid_uses_custom_empty_message():
+    markdown = update_bangumi.render_poster_grid([], empty_message="> 暂时没有在读的条目。")
+
+    assert markdown == "> 暂时没有在读的条目。"
+
+
 def test_render_poster_grid_includes_all_items_by_default():
     items = [
         {
@@ -95,17 +154,17 @@ def test_render_poster_grid_includes_all_items_by_default():
 
 def test_replace_bangumi_section_updates_only_marked_block():
     readme = """before
-<!-- BANGUMI:START -->
+<!-- BANGUMI_ANIME:START -->
 old content
-<!-- BANGUMI:END -->
+<!-- BANGUMI_ANIME:END -->
 after
 """
 
-    updated = update_bangumi.replace_bangumi_section(readme, "new content")
+    updated = update_bangumi.replace_bangumi_section(readme, "new content", "BANGUMI_ANIME")
 
     assert updated == """before
-<!-- BANGUMI:START -->
+<!-- BANGUMI_ANIME:START -->
 new content
-<!-- BANGUMI:END -->
+<!-- BANGUMI_ANIME:END -->
 after
 """

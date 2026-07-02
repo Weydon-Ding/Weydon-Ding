@@ -59,46 +59,73 @@
 ## 🎮 More about me
 
 <details>
-<summary>📺 Bangumi Watching</summary>
+<summary>📺 在看的动画</summary>
 
-<!-- BANGUMI:START -->
+<!-- BANGUMI_ANIME:START -->
 <p align="left">
-  <a href="https://bgm.tv/subject/530725" title="BLEACH 千年血戦篇-禍進譚- · 0 / ?"><img src="http://lain.bgm.tv/pic/cover/c/ad/f9/530725_CAqWC.jpg" width="80" alt="BLEACH 千年血戦篇-禍進譚-" /></a>
-  <a href="https://bgm.tv/subject/585820" title="クレバテスⅡ-魔獣の王と偽りの勇者伝承- · 0 / ?"><img src="http://lain.bgm.tv/pic/cover/c/1a/a0/585820_NpfLN.jpg" width="80" alt="クレバテスⅡ-魔獣の王と偽りの勇者伝承-" /></a>
-  <a href="https://bgm.tv/subject/627136" title="うしろの正面カムイさん · 0 / ?"><img src="http://lain.bgm.tv/pic/cover/c/01/8f/627136_hb0Jd.jpg" width="80" alt="うしろの正面カムイさん" /></a>
-  <a href="https://bgm.tv/subject/495291" title="さよならララ · 0 / 12"><img src="http://lain.bgm.tv/pic/cover/c/18/af/495291_9WuBW.jpg" width="80" alt="さよならララ" /></a>
-  <a href="https://bgm.tv/subject/598058" title="君のことが大大大大大好きな100人の彼女 第3期 · 0 / ?"><img src="http://lain.bgm.tv/pic/cover/c/96/f8/598058_1RcCL.jpg" width="80" alt="君のことが大大大大大好きな100人の彼女 第3期" /></a>
-  <a href="https://bgm.tv/subject/552533" title="天幕のジャードゥーガル · 0 / 12"><img src="http://lain.bgm.tv/pic/cover/c/28/41/552533_E9DF9.jpg" width="80" alt="天幕のジャードゥーガル" /></a>
-  <a href="https://bgm.tv/subject/255209" title="二十世紀電氣目録-ユーレカ・エヴリカ- · 0 / ?"><img src="http://lain.bgm.tv/pic/cover/c/ce/3a/255209_9w0tU.jpg" width="80" alt="二十世紀電氣目録-ユーレカ・エヴリカ-" /></a>
-  <a href="https://bgm.tv/subject/38954" title="遊☆戯☆王デュエルモンスターズALEX · 0 / 12"><img src="http://lain.bgm.tv/pic/cover/c/35/43/38954_j5WiJ.jpg" width="80" alt="遊☆戯☆王デュエルモンスターズALEX" /></a>
-  <a href="https://bgm.tv/subject/328609" title="ぼっち・ざ・ろっく！ · 4 / 12"><img src="http://lain.bgm.tv/pic/cover/c/e2/e7/328609_2EHLJ.jpg" width="80" alt="ぼっち・ざ・ろっく！" /></a>
-  <a href="https://bgm.tv/subject/622633" title="ワールド イズ ダンシング · 0 / ?"><img src="http://lain.bgm.tv/pic/cover/c/e5/4e/622633_JNfJt.jpg" width="80" alt="ワールド イズ ダンシング" /></a>
-  <a href="https://bgm.tv/subject/72942" title="中二病でも恋がしたい！戀 · 0 / 13"><img src="http://lain.bgm.tv/pic/cover/c/c8/e4/72942_VniXv.jpg" width="80" alt="中二病でも恋がしたい！戀" /></a>
-  <a href="https://bgm.tv/subject/622206" title="ヤニねこ · 0 / ?"><img src="http://lain.bgm.tv/pic/cover/c/6a/b3/622206_dpWcC.jpg" width="80" alt="ヤニねこ" /></a>
-  <a href="https://bgm.tv/subject/571784" title="スーパーの裏でヤニ吸うふたり · 2 / 12"><img src="http://lain.bgm.tv/pic/cover/c/6f/42/571784_leRlL.jpg" width="80" alt="スーパーの裏でヤニ吸うふたり" /></a>
-  <a href="https://bgm.tv/subject/545008" title="ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～ · 0 / ?"><img src="http://lain.bgm.tv/pic/cover/c/14/a1/545008_pNnzQ.jpg" width="80" alt="ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～" /></a>
-  <a href="https://bgm.tv/subject/501963" title="無職転生Ⅲ ～異世界行ったら本気だす～ · 0 / ?"><img src="http://lain.bgm.tv/pic/cover/c/1f/9e/501963_bXlEP.jpg" width="80" alt="無職転生Ⅲ ～異世界行ったら本気だす～" /></a>
-  <a href="https://bgm.tv/subject/86445" title="そらのおとしものFinal 永遠の私の鳥籠 · 0 / 1"><img src="http://lain.bgm.tv/pic/cover/c/45/1e/109108_IqVY4.jpg" width="80" alt="そらのおとしものFinal 永遠の私の鳥籠" /></a>
-  <a href="https://bgm.tv/subject/12576" title="劇場版 そらのおとしもの 時計じかけの哀女神 · 0 / 1"><img src="http://lain.bgm.tv/pic/cover/c/75/dd/12576_ZW5pW.jpg" width="80" alt="劇場版 そらのおとしもの 時計じかけの哀女神" /></a>
-  <a href="https://bgm.tv/subject/515759" title="葬送のフリーレン 第2期 · 0 / 10"><img src="http://lain.bgm.tv/pic/cover/c/0b/24/515759_qA1Zc.jpg" width="80" alt="葬送のフリーレン 第2期" /></a>
-  <a href="https://bgm.tv/subject/237" title="GHOST IN THE SHELL / 攻殻機動隊 · 0 / 1"><img src="http://lain.bgm.tv/pic/cover/c/53/9f/237_78UdL.jpg" width="80" alt="GHOST IN THE SHELL / 攻殻機動隊" /></a>
-  <a href="https://bgm.tv/subject/486763" title="姫様“拷問”の時間です 第2期 · 0 / 12"><img src="http://lain.bgm.tv/pic/cover/c/13/79/486763_s49V9.jpg" width="80" alt="姫様“拷問”の時間です 第2期" /></a>
-  <a href="https://bgm.tv/subject/414987" title="怪異と乙女と神隠し · 0 / 12"><img src="http://lain.bgm.tv/pic/cover/c/46/d1/414987_Dcb0y.jpg" width="80" alt="怪異と乙女と神隠し" /></a>
-  <a href="https://bgm.tv/subject/8402" title="Panty &amp; Stocking with Garterbelt · 0 / 13"><img src="http://lain.bgm.tv/pic/cover/c/a7/49/8402_Q9mLv.jpg" width="80" alt="Panty &amp; Stocking with Garterbelt" /></a>
-  <a href="https://bgm.tv/subject/424883" title="時々ボソッとロシア語でデレる隣のアーリャさん · 7 / 12"><img src="http://lain.bgm.tv/pic/cover/c/7c/8e/424883_BpzVb.jpg" width="80" alt="時々ボソッとロシア語でデレる隣のアーリャさん" /></a>
-  <a href="https://bgm.tv/subject/509986" title="アポカリプスホテル · 0 / 12"><img src="http://lain.bgm.tv/pic/cover/c/6e/1a/509986_99qsc.jpg" width="80" alt="アポカリプスホテル" /></a>
-  <a href="https://bgm.tv/subject/518090" title="九龍ジェネリックロマンス · 0 / 13"><img src="http://lain.bgm.tv/pic/cover/c/3e/a1/518090_lCsju.jpg" width="80" alt="九龍ジェネリックロマンス" /></a>
-  <a href="https://bgm.tv/subject/72941" title="キルラキル · 0 / 24"><img src="http://lain.bgm.tv/pic/cover/c/d5/d7/72941_q1DiW.jpg" width="80" alt="キルラキル" /></a>
-  <a href="https://bgm.tv/subject/498934" title="花は咲く、修羅の如く · 0 / 12"><img src="http://lain.bgm.tv/pic/cover/c/b8/26/498934_KffF9.jpg" width="80" alt="花は咲く、修羅の如く" /></a>
-  <a href="https://bgm.tv/subject/474906" title="小市民シリーズ · 0 / 10"><img src="http://lain.bgm.tv/pic/cover/c/e2/f4/474906_z0h44.jpg" width="80" alt="小市民シリーズ" /></a>
-  <a href="https://bgm.tv/subject/363957" title="Summer Pockets · 0 / 26"><img src="http://lain.bgm.tv/pic/cover/c/23/ce/363957_pgptl.jpg" width="80" alt="Summer Pockets" /></a>
-  <a href="https://bgm.tv/subject/487684" title="シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd Season · 0 / 25"><img src="http://lain.bgm.tv/pic/cover/c/e0/24/487684_nwsBN.jpg" width="80" alt="シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd Season" /></a>
-  <a href="https://bgm.tv/subject/276187" title="ソウナンですか？ · 2 / 12"><img src="http://lain.bgm.tv/pic/cover/c/ce/70/276187_EyOp6.jpg" width="80" alt="ソウナンですか？" /></a>
-  <a href="https://bgm.tv/subject/442559" title="グリム組曲 · 2 / 6"><img src="http://lain.bgm.tv/pic/cover/c/ce/37/486093_PM47p.jpg" width="80" alt="グリム組曲" /></a>
-  <a href="https://bgm.tv/subject/362255" title="ミギとダリ · 1 / 13"><img src="http://lain.bgm.tv/pic/cover/c/4b/52/362255_MjGGW.jpg" width="80" alt="ミギとダリ" /></a>
-  <a href="https://bgm.tv/subject/54675" title="リトルウィッチアカデミア · 0 / 1"><img src="http://lain.bgm.tv/pic/cover/c/4c/ba/54675_df9sF.jpg" width="80" alt="リトルウィッチアカデミア" /></a>
-  <a href="https://bgm.tv/subject/124646" title="リトルウィッチアカデミア 魔法仕掛けのパレード · 0 / 1"><img src="http://lain.bgm.tv/pic/cover/c/aa/5c/124646_Cgec8.jpg" width="80" alt="リトルウィッチアカデミア 魔法仕掛けのパレード" /></a>
+  <a href="https://bgm.tv/subject/530725" title="死神 千年血战篇-祸进谭-"><img src="https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg" width="80" alt="死神 千年血战篇-祸进谭-" /></a>
+  <a href="https://bgm.tv/subject/585820" title="Clevatess II-魔兽之王与虚假的勇者传承-"><img src="https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg" width="80" alt="Clevatess II-魔兽之王与虚假的勇者传承-" /></a>
+  <a href="https://bgm.tv/subject/627136" title="正后方的神威"><img src="https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg" width="80" alt="正后方的神威" /></a>
+  <a href="https://bgm.tv/subject/495291" title="再见，拉拉 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg" width="80" alt="再见，拉拉" /></a>
+  <a href="https://bgm.tv/subject/598058" title="超超超超超喜欢你的100个女朋友 第三季"><img src="https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg" width="80" alt="超超超超超喜欢你的100个女朋友 第三季" /></a>
+  <a href="https://bgm.tv/subject/552533" title="穹庐下的魔女 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg" width="80" alt="穹庐下的魔女" /></a>
+  <a href="https://bgm.tv/subject/255209" title="二十世纪电气目录"><img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="80" alt="二十世纪电气目录" /></a>
+  <a href="https://bgm.tv/subject/38954" title="游戏王胶囊怪兽 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/35/43/38954_j5WiJ.jpg" width="80" alt="游戏王胶囊怪兽" /></a>
+  <a href="https://bgm.tv/subject/328609" title="孤独摇滚！ · 4 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/e2/e7/328609_2EHLJ.jpg" width="80" alt="孤独摇滚！" /></a>
+  <a href="https://bgm.tv/subject/622633" title="THE WORLD IS DANCING 世界在起舞"><img src="https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg" width="80" alt="THE WORLD IS DANCING 世界在起舞" /></a>
+  <a href="https://bgm.tv/subject/72942" title="中二病也要谈恋爱！恋 · 0 / 13"><img src="https://lain.bgm.tv/r/400/pic/cover/l/c8/e4/72942_VniXv.jpg" width="80" alt="中二病也要谈恋爱！恋" /></a>
+  <a href="https://bgm.tv/subject/622206" title="尼古喵喵"><img src="https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg" width="80" alt="尼古喵喵" /></a>
+  <a href="https://bgm.tv/subject/571784" title="在超市后门吸烟的二人 · 2 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg" width="80" alt="在超市后门吸烟的二人" /></a>
+  <a href="https://bgm.tv/subject/545008" title="恶女不才，请多关照 ～雏宫蝶鼠换身传～"><img src="https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg" width="80" alt="恶女不才，请多关照 ～雏宫蝶鼠换身传～" /></a>
+  <a href="https://bgm.tv/subject/501963" title="无职转生 第三季 ～到了异世界就拿出真本事～"><img src="https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg" width="80" alt="无职转生 第三季 ～到了异世界就拿出真本事～" /></a>
+  <a href="https://bgm.tv/subject/86445" title="天降之物Final 永远的我的鸟笼 · 0 / 1"><img src="https://lain.bgm.tv/r/400/pic/cover/l/45/1e/109108_IqVY4.jpg" width="80" alt="天降之物Final 永远的我的鸟笼" /></a>
+  <a href="https://bgm.tv/subject/12576" title="天降之物 计时的悲伤女神 · 0 / 1"><img src="https://lain.bgm.tv/r/400/pic/cover/l/75/dd/12576_ZW5pW.jpg" width="80" alt="天降之物 计时的悲伤女神" /></a>
+  <a href="https://bgm.tv/subject/515759" title="葬送的芙莉莲 第二季 · 0 / 10"><img src="https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg" width="80" alt="葬送的芙莉莲 第二季" /></a>
+  <a href="https://bgm.tv/subject/237" title="攻壳机动队 · 0 / 1"><img src="https://lain.bgm.tv/r/400/pic/cover/l/53/9f/237_78UdL.jpg" width="80" alt="攻壳机动队" /></a>
+  <a href="https://bgm.tv/subject/486763" title="公主大人“拷问”的时间到了 第二季 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/13/79/486763_s49V9.jpg" width="80" alt="公主大人“拷问”的时间到了 第二季" /></a>
+  <a href="https://bgm.tv/subject/414987" title="怪异与少女与神隐 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/46/d1/414987_Dcb0y.jpg" width="80" alt="怪异与少女与神隐" /></a>
+  <a href="https://bgm.tv/subject/8402" title="吊带袜天使 · 0 / 13"><img src="https://lain.bgm.tv/r/400/pic/cover/l/a7/49/8402_Q9mLv.jpg" width="80" alt="吊带袜天使" /></a>
+  <a href="https://bgm.tv/subject/424883" title="不时轻声地以俄语遮羞的邻座艾莉同学 · 7 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/7c/8e/424883_BpzVb.jpg" width="80" alt="不时轻声地以俄语遮羞的邻座艾莉同学" /></a>
+  <a href="https://bgm.tv/subject/509986" title="末日后酒店 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/6e/1a/509986_99qsc.jpg" width="80" alt="末日后酒店" /></a>
+  <a href="https://bgm.tv/subject/518090" title="九龙大众浪漫 · 0 / 13"><img src="https://lain.bgm.tv/r/400/pic/cover/l/3e/a1/518090_lCsju.jpg" width="80" alt="九龙大众浪漫" /></a>
+  <a href="https://bgm.tv/subject/72941" title="斩服少女 · 0 / 24"><img src="https://lain.bgm.tv/r/400/pic/cover/l/d5/d7/72941_q1DiW.jpg" width="80" alt="斩服少女" /></a>
+  <a href="https://bgm.tv/subject/498934" title="群花绽放，彷如修罗 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/b8/26/498934_KffF9.jpg" width="80" alt="群花绽放，彷如修罗" /></a>
+  <a href="https://bgm.tv/subject/474906" title="小市民系列 · 0 / 10"><img src="https://lain.bgm.tv/r/400/pic/cover/l/e2/f4/474906_z0h44.jpg" width="80" alt="小市民系列" /></a>
+  <a href="https://bgm.tv/subject/363957" title="夏日口袋 · 0 / 26"><img src="https://lain.bgm.tv/r/400/pic/cover/l/23/ce/363957_pgptl.jpg" width="80" alt="夏日口袋" /></a>
+  <a href="https://bgm.tv/subject/487684" title="香格里拉边境 第二季 · 0 / 25"><img src="https://lain.bgm.tv/r/400/pic/cover/l/e0/24/487684_nwsBN.jpg" width="80" alt="香格里拉边境 第二季" /></a>
+  <a href="https://bgm.tv/subject/276187" title="你遭难了吗？ · 2 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/70/276187_EyOp6.jpg" width="80" alt="你遭难了吗？" /></a>
+  <a href="https://bgm.tv/subject/442559" title="格林童话变奏曲 · 2 / 6"><img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/37/486093_PM47p.jpg" width="80" alt="格林童话变奏曲" /></a>
+  <a href="https://bgm.tv/subject/362255" title="米奇与达利 · 1 / 13"><img src="https://lain.bgm.tv/r/400/pic/cover/l/4b/52/362255_MjGGW.jpg" width="80" alt="米奇与达利" /></a>
+  <a href="https://bgm.tv/subject/54675" title="小魔女学园 · 0 / 1"><img src="https://lain.bgm.tv/r/400/pic/cover/l/4c/ba/54675_df9sF.jpg" width="80" alt="小魔女学园" /></a>
+  <a href="https://bgm.tv/subject/124646" title="小魔女学园 魔法游行 · 0 / 1"><img src="https://lain.bgm.tv/r/400/pic/cover/l/aa/5c/124646_Cgec8.jpg" width="80" alt="小魔女学园 魔法游行" /></a>
 </p>
-<!-- BANGUMI:END -->
+<!-- BANGUMI_ANIME:END -->
+
+</details>
+
+<details>
+<summary>📚 在读的书籍</summary>
+
+<!-- BANGUMI_BOOKS:START -->
+<p align="left">
+  <a href="https://bgm.tv/subject/45021" title="JoJo的奇妙冒险 第八部 JoJo福音 · 0 / 110"><img src="https://lain.bgm.tv/r/400/pic/cover/l/de/0f/45021_4Y76a.jpg" width="80" alt="JoJo的奇妙冒险 第八部 JoJo福音" /></a>
+  <a href="https://bgm.tv/subject/9640" title="剑风传奇 · 24 / ?"><img src="https://lain.bgm.tv/r/400/pic/cover/l/6f/75/9640_gYJRJ.jpg" width="80" alt="剑风传奇" /></a>
+</p>
+<!-- BANGUMI_BOOKS:END -->
+
+</details>
+
+<details>
+<summary>🎮 在玩的游戏</summary>
+
+<!-- BANGUMI_GAMES:START -->
+<p align="left">
+  <a href="https://bgm.tv/subject/102690" title="大逆转裁判 成步堂龙之介的冒险"><img src="https://lain.bgm.tv/r/400/pic/cover/l/26/39/102690_T7fhH.jpg" width="80" alt="大逆转裁判 成步堂龙之介的冒险" /></a>
+  <a href="https://bgm.tv/subject/284100" title="艾尔登法环"><img src="https://lain.bgm.tv/r/400/pic/cover/l/0d/37/284100_6XFF9.jpg" width="80" alt="艾尔登法环" /></a>
+  <a href="https://bgm.tv/subject/1114" title="逆转裁判4"><img src="https://lain.bgm.tv/r/400/pic/cover/l/d6/ef/1114_PDHO3.jpg" width="80" alt="逆转裁判4" /></a>
+  <a href="https://bgm.tv/subject/290114" title="异度神剑 终极版"><img src="https://lain.bgm.tv/r/400/pic/cover/l/86/04/290114_aPUqP.jpg" width="80" alt="异度神剑 终极版" /></a>
+  <a href="https://bgm.tv/subject/22660" title="女神异闻录4 黄金版"><img src="https://lain.bgm.tv/r/400/pic/cover/l/19/21/22660_4bb11.jpg" width="80" alt="女神异闻录4 黄金版" /></a>
+</p>
+<!-- BANGUMI_GAMES:END -->
 
 </details>

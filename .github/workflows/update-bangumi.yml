@@ -1,4 +1,4 @@
-name: Update Bangumi Watching
+name: Update Bangumi Collections
 
 on:
   schedule:
@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Update Bangumi watching list
+      - name: Update Bangumi collections
         env:
           BANGUMI_USER_ID: "782607"
         run: python scripts/update_bangumi.py
@@ -29,5 +29,5 @@ jobs:
       - name: Commit README update
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update Bangumi watching list"
+          commit_message: "chore: update Bangumi collections"
           file_pattern: README.md
