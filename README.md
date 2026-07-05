@@ -71,7 +71,7 @@
   <a href="https://bgm.tv/subject/622206" title="尼古喵喵"><img src="https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg" width="80" alt="尼古喵喵" /></a>
   <a href="https://bgm.tv/subject/571784" title="在超市后门吸烟的二人 · 2 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg" width="80" alt="在超市后门吸烟的二人" /></a>
   <a href="https://bgm.tv/subject/545008" title="恶女不才，请多关照 ～雏宫蝶鼠换身传～"><img src="https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg" width="80" alt="恶女不才，请多关照 ～雏宫蝶鼠换身传～" /></a>
-  <a href="https://bgm.tv/subject/501963" title="无职转生 第三季 ～到了异世界就拿出真本事～"><img src="https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg" width="80" alt="无职转生 第三季 ～到了异世界就拿出真本事～" /></a>
+  <a href="https://bgm.tv/subject/501963" title="无职转生 第三季 ～到了异世界就拿出真本事～ · 0 / 14"><img src="https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg" width="80" alt="无职转生 第三季 ～到了异世界就拿出真本事～" /></a>
   <a href="https://bgm.tv/subject/86445" title="天降之物Final 永远的我的鸟笼 · 0 / 1"><img src="https://lain.bgm.tv/r/400/pic/cover/l/45/1e/109108_IqVY4.jpg" width="80" alt="天降之物Final 永远的我的鸟笼" /></a>
   <a href="https://bgm.tv/subject/12576" title="天降之物 计时的悲伤女神 · 0 / 1"><img src="https://lain.bgm.tv/r/400/pic/cover/l/75/dd/12576_ZW5pW.jpg" width="80" alt="天降之物 计时的悲伤女神" /></a>
   <a href="https://bgm.tv/subject/515759" title="葬送的芙莉莲 第二季 · 0 / 10"><img src="https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_qA1Zc.jpg" width="80" alt="葬送的芙莉莲 第二季" /></a>
