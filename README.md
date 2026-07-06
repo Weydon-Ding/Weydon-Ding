@@ -59,11 +59,11 @@
 <p align="left">
   <a href="https://bgm.tv/subject/530725" title="死神 千年血战篇-祸进谭-"><img src="https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg" width="80" alt="死神 千年血战篇-祸进谭-" /></a>
   <a href="https://bgm.tv/subject/585820" title="Clevatess II-魔兽之王与虚假的勇者传承-"><img src="https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg" width="80" alt="Clevatess II-魔兽之王与虚假的勇者传承-" /></a>
-  <a href="https://bgm.tv/subject/627136" title="正后方的神威"><img src="https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg" width="80" alt="正后方的神威" /></a>
+  <a href="https://bgm.tv/subject/627136" title="正后方的神威 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg" width="80" alt="正后方的神威" /></a>
   <a href="https://bgm.tv/subject/495291" title="再见菈菈 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg" width="80" alt="再见菈菈" /></a>
   <a href="https://bgm.tv/subject/598058" title="超超超超超喜欢你的100个女朋友 第三季"><img src="https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg" width="80" alt="超超超超超喜欢你的100个女朋友 第三季" /></a>
   <a href="https://bgm.tv/subject/552533" title="穹庐下的魔女 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg" width="80" alt="穹庐下的魔女" /></a>
-  <a href="https://bgm.tv/subject/255209" title="二十世纪电气目录"><img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="80" alt="二十世纪电气目录" /></a>
+  <a href="https://bgm.tv/subject/255209" title="二十世纪电气目录 · 0 / 13"><img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="80" alt="二十世纪电气目录" /></a>
   <a href="https://bgm.tv/subject/38954" title="游戏王胶囊怪兽 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/35/43/38954_j5WiJ.jpg" width="80" alt="游戏王胶囊怪兽" /></a>
   <a href="https://bgm.tv/subject/328609" title="孤独摇滚！ · 4 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/e2/e7/328609_2EHLJ.jpg" width="80" alt="孤独摇滚！" /></a>
   <a href="https://bgm.tv/subject/622633" title="THE WORLD IS DANCING 世界在起舞 · 0 / 13"><img src="https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg" width="80" alt="THE WORLD IS DANCING 世界在起舞" /></a>
