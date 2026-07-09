@@ -58,8 +58,8 @@
 <!-- BANGUMI_ANIME:START -->
 <p align="left">
   <a href="https://bgm.tv/subject/530725" title="死神 千年血战篇-祸进谭-"><img src="https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg" width="80" alt="死神 千年血战篇-祸进谭-" /></a>
-  <a href="https://bgm.tv/subject/585820" title="Clevatess II-魔兽之王与虚假的勇者传承-"><img src="https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg" width="80" alt="Clevatess II-魔兽之王与虚假的勇者传承-" /></a>
-  <a href="https://bgm.tv/subject/627136" title="正后方的神威 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg" width="80" alt="正后方的神威" /></a>
+  <a href="https://bgm.tv/subject/585820" title="Clevatess II-魔兽之王与虚假的勇者传承- · 0 / 13"><img src="https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg" width="80" alt="Clevatess II-魔兽之王与虚假的勇者传承-" /></a>
+  <a href="https://bgm.tv/subject/627136" title="从后面来的神威先生 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg" width="80" alt="从后面来的神威先生" /></a>
   <a href="https://bgm.tv/subject/495291" title="再见菈菈 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg" width="80" alt="再见菈菈" /></a>
   <a href="https://bgm.tv/subject/598058" title="超超超超超喜欢你的100个女朋友 第三季"><img src="https://lain.bgm.tv/r/400/pic/cover/l/96/f8/598058_1RcCL.jpg" width="80" alt="超超超超超喜欢你的100个女朋友 第三季" /></a>
   <a href="https://bgm.tv/subject/552533" title="穹庐下的魔女 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg" width="80" alt="穹庐下的魔女" /></a>
