@@ -67,7 +67,7 @@
   <a href="https://bgm.tv/subject/38954" title="游戏王胶囊怪兽 · 0 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/35/43/38954_j5WiJ.jpg" width="80" alt="游戏王胶囊怪兽" /></a>
   <a href="https://bgm.tv/subject/328609" title="孤独摇滚！ · 4 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/e2/e7/328609_2EHLJ.jpg" width="80" alt="孤独摇滚！" /></a>
   <a href="https://bgm.tv/subject/622633" title="THE WORLD IS DANCING 世界在起舞 · 0 / 13"><img src="https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg" width="80" alt="THE WORLD IS DANCING 世界在起舞" /></a>
-  <a href="https://bgm.tv/subject/72942" title="中二病也要谈恋爱！恋 · 0 / 13"><img src="https://lain.bgm.tv/r/400/pic/cover/l/c8/e4/72942_VniXv.jpg" width="80" alt="中二病也要谈恋爱！恋" /></a>
+  <a href="https://bgm.tv/subject/72942" title="中二病也要谈恋爱！恋 · 0 / 13"><img src="https://lain.bgm.tv/r/400/pic/cover/l/c8/e4/72942_S7ZSs.jpg" width="80" alt="中二病也要谈恋爱！恋" /></a>
   <a href="https://bgm.tv/subject/622206" title="尼古喵喵"><img src="https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg" width="80" alt="尼古喵喵" /></a>
   <a href="https://bgm.tv/subject/571784" title="在超市后门吸烟的二人 · 2 / 12"><img src="https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg" width="80" alt="在超市后门吸烟的二人" /></a>
   <a href="https://bgm.tv/subject/545008" title="恶女不才，请多关照 ～雏宫蝶鼠换身传～ · 0 / 11"><img src="https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg" width="80" alt="恶女不才，请多关照 ～雏宫蝶鼠换身传～" /></a>
